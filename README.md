@@ -2,6 +2,11 @@
 
 ### (Add project description)
 
+A social platform that combines location-based audio experiences with minimal screen-time engagement. 
+Concept:
+Save and share “audio x place” in wav. file
+
+
 Immersive Soundscapes:
 Leave audio memories tied to locations.
 Explore public soundscapes curated by the community.
