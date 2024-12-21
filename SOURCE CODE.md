@@ -1,8 +1,8 @@
 1. Location-based Audio/Geofencing
 GeoFire (Firebase): Provides a simple way to store and query location-based data.
-GitHub: GeoFire GitHub
+GitHub: GeoFire GitHub https://github.com/firebase/geofire
 Mapbox: For integrating maps and location-based services.
-Example: Mapbox Android Example
+Example: Mapbox Android Example https://github.com/mapbox/mapbox-android-demo 
 
 2. Audio Playback and Sound Customization
 Superpowered SDK: Real-time audio processing, which could be useful for sound customization (pitch, reverb, etc.).
