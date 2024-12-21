@@ -1,6 +1,6 @@
-# AR-App (update project name)
+# AR-App
 
-### (Add project description)
+### (project description)
 
 A social platform that combines location-based audio experiences with minimal screen-time engagement. 
 Concept:
