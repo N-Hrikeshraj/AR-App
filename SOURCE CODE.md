@@ -6,27 +6,27 @@ Example: Mapbox Android Example https://github.com/mapbox/mapbox-android-demo
 
 2. Audio Playback and Sound Customization
 Superpowered SDK: Real-time audio processing, which could be useful for sound customization (pitch, reverb, etc.).
-Documentation: Superpowered SDK
+Documentation: Superpowered SDK https://superpowered.com/ 
 FMOD: A comprehensive tool for interactive audio, often used in games but can also be applied in apps.
-GitHub: FMOD Studio API Example
+GitHub: FMOD Studio API Example https://github.com/fmod/ 
 
 3. AR Experiences (AR/VR Integration)
 AR Foundation (Unity): Unity’s AR Foundation helps you build augmented reality experiences for mobile devices.
-Example: AR Foundation Samples
+Example: AR Foundation Samples https://github.com/Unity-Technologies/arfoundation-samples 
 Vuforia: Another AR tool, mainly used in mobile applications for marker-based AR.
-Documentation: Vuforia Documentation
+Documentation: Vuforia Documentation 
 
 4. Voice Navigation and Commands
 Dialogflow: Google’s natural language processing API, which allows you to integrate voice-based commands into your app.
-GitHub: Dialogflow SDK GitHub
+GitHub: Dialogflow SDK GitHub https://github.com/googleapis/google-cloud-java 
 Speech to Text (Google Cloud): For voice-based navigation and interaction.
-Example: Speech-to-Text Demo
+Example: Speech-to-Text Demo https://github.com/googleapis/python-speech
 
 5. Backend Management
 Firebase: Firebase’s cloud services can help you manage users, store audio files, and manage data. Firebase provides real-time databases, authentication, storage, and more.
-GitHub: Firebase SDK
+GitHub: Firebase SDK https://github.com/firebase/firebase-android-sdk 
 AWS Amplify: A set of tools and services for backend development. It supports data storage, user authentication, and file management.
-Documentation: AWS Amplify
+Documentation: AWS Amplify 
 
 6. Push Notifications
 Firebase Cloud Messaging (FCM): A powerful tool to send push notifications to users.
@@ -34,7 +34,7 @@ Documentation: FCM Documentation
 
 7. Interactive Soundscapes (User-Generated Content)
 Web Audio API: This is a browser-based tool that allows for complex audio processing. It could be used to enable sound mixing and user customization features.
-Documentation: Web Audio API
+Documentation: Web Audio API https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API 
 
 8. Privacy Features (Geofencing and Access Control)
 Geofence SDK (Firebase): Create geofences with Firebase and limit the audio based on location and time.
